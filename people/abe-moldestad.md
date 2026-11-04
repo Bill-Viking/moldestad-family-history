@@ -4,7 +4,7 @@ Minnesota farmer and landholder, also identified with photography in Delhi.
 
 **Working dates:** January 25, 1874 or 1875 – February 1968. The birth year is unresolved; the death month comes from a secondary genealogy index.
 
-[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [His parents' family](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
+[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions/4) · [His parents' family](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
 
 ## Family and beginnings
 
@@ -52,4 +52,4 @@ The available material does not justify conclusions about his temperament, polit
 - Deeds and estate records testing the reported 800 acres.
 - Evidence of the notebook's author and dates for labeled photographs.
 
-[Discuss Abe's history](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [Back to the family history](../README.md)
+[Discuss Abe's history](https://github.com/Bill-Viking/moldestad-family-history/discussions/4) · [Back to the family history](../README.md)

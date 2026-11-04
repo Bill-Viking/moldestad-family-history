@@ -4,7 +4,7 @@ Also recorded as Andrine Villumsdatter, Nille Andrine Vilhelmsdatter or Wilhelms
 
 **Working dates:** March 1, 1841 – May 18, 1910. The birth comes from a retained baptism transcription; the death date is reported by a later history.
 
-[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [Family timeline](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
+[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions/3) · [Family timeline](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
 
 ## Her names and family
 
@@ -49,4 +49,4 @@ Gimmestad reports Nellie's death on **May 18, 1910**. Davidson gives 1910 and pl
 - Anna's baptism and the family's emigration records.
 - Minnesota death and church records, letters, or other accounts of Nellie's own life.
 
-[Discuss Nellie's history](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [Back to the family history](../README.md)
+[Discuss Nellie's history](https://github.com/Bill-Viking/moldestad-family-history/discussions/3) · [Back to the family history](../README.md)

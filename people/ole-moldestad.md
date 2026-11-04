@@ -4,7 +4,7 @@ Also recorded as Ola Olsson Moldestad and O. O. Moldestad. Person ID: **MOL-001*
 
 **Working dates:** August 11, 1834 – December 9, 1905. The birth date is a reading of the original register; the death date is reported by a later history. The qualifications below matter.
 
-[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [Family timeline](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
+[Share a record or correction](https://github.com/Bill-Viking/moldestad-family-history/discussions/2) · [Family timeline](../families/ole-and-nellie.md) · [Sources](../sources/README.md)
 
 ## Norway
 
@@ -45,4 +45,4 @@ The cooper's occupation and the later accounts of wage work and farming suggest 
 - Deeds and probate for Swedes Forest and Delhi.
 - Anna's baptism and primary links to the proposed grandparents.
 
-[Discuss Ole's history](https://github.com/Bill-Viking/moldestad-family-history/discussions) · [Back to the family history](../README.md)
+[Discuss Ole's history](https://github.com/Bill-Viking/moldestad-family-history/discussions/2) · [Back to the family history](../README.md)

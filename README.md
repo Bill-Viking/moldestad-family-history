@@ -6,17 +6,17 @@ An ongoing, sourced history of the Moldestad family, beginning with Ole Olsen Mo
 
 ## Read the family history
 
-| Person | What you will find |
-| --- | --- |
-| [Ole Olsen Moldestad](people/ole-moldestad.md) | Norwegian origins, work as a cooper, marriage, migration in 1871 and farming in Minnesota. |
-| [Nille Andrine / Nellie Bergset Moldestad](people/nellie-moldestad.md) | Her recorded names, parents, childhood, marriage and life in Minnesota. |
-| [Abraham / Abe Moldestad](people/abe-moldestad.md) | Farming, landholding, photography and the limits of the surviving evidence. |
+| Person | What you will find | Add information |
+| --- | --- | --- |
+| [Ole Olsen Moldestad](people/ole-moldestad.md) | Norwegian origins, work as a cooper, marriage, migration in 1871 and farming in Minnesota. | [Discuss Ole](https://github.com/Bill-Viking/moldestad-family-history/discussions/2) |
+| [Nille Andrine / Nellie Bergset Moldestad](people/nellie-moldestad.md) | Her recorded names, parents, childhood, marriage and life in Minnesota. | [Discuss Nellie](https://github.com/Bill-Viking/moldestad-family-history/discussions/3) |
+| [Abraham / Abe Moldestad](people/abe-moldestad.md) | Farming, landholding, photography and the limits of the surviving evidence. | [Discuss Abe](https://github.com/Bill-Viking/moldestad-family-history/discussions/4) |
 
 Read [Ole and Nellie's family timeline](families/ole-and-nellie.md), explore the [questions still open](research/open-questions.md), or follow the [source register](sources/README.md).
 
 ## Help improve it
 
-Use the discussion link on a person's page, or start a new discussion for another ancestor or family branch. A source link, record citation, captioned photograph or clearly identified recollection is useful even when it raises a question rather than answers one. Information found on Ancestry, FamilySearch, another family tree or a local archive is welcome; tell us where it came from and what evidence supports it.
+Start with the [welcome discussion](https://github.com/Bill-Viking/moldestad-family-history/discussions/1), use the discussion link on a person's page, or start a new discussion for another ancestor or family branch. A source link, record citation, captioned photograph or clearly identified recollection is useful even when it raises a question rather than answers one. Information found on Ancestry, FamilySearch, another family tree or a local archive is welcome; tell us where it came from and what evidence supports it.
 
 Contributions are suggestions for review. **Bill decides which findings to incorporate.** A comment does not automatically change a biography or establish a relationship. When a finding is adopted, the relevant page will explain the evidence and link to the contribution where appropriate. See [how to contribute](CONTRIBUTING.md).
 
